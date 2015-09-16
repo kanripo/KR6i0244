@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 道地經
+#+DATE: 2015-08-30 20:13:52.242963
+#+PROPERTY: JUAN 0
